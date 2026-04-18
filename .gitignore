@@ -1,0 +1,12 @@
+.DS_Store
+
+# Claude / AI assistant files
+.claude/
+.claude.json
+CLAUDE.md
+CLAUDE.local.md
+.superpowers/
+.anthropic/
+.cursor/
+.aider*
+.continue/
